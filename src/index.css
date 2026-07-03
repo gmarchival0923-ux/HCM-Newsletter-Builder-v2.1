@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Ensure all input and textarea elements have a highly visible highlight color and active cursor */
+input::selection, textarea::selection {
+  background-color: #93c5fd !important; /* Tailwind blue-300 for high-contrast selection background */
+  color: #1e3a8a !important; /* Tailwind blue-900 for dark readable text */
+}
+
+input, textarea {
+  caret-color: #1d4ed8 !important; /* Solid blue-700 caret for highly visible text cursor */
+}
+

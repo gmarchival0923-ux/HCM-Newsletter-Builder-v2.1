@@ -1,0 +1,8 @@
+{
+  "name": "HCM Marketing Newsletter Maker v2.1",
+  "description": "A modern, professional newsletter creator and designer with real-time preview and instant html file generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
